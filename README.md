@@ -1,6 +1,6 @@
 
 <repo>/
-├─ app.py # Flask routes / API endpoints/
+├─ app.py # Flask routes / API endpoints\n
 ├─ pipeline.py # Core audio+LLM pipeline (used by web & legacy)
 ├─ templates/
 │ └─ index.html # Web UI
